@@ -51,6 +51,15 @@ Execute the script by running:
 python your_script_name.py
 ```
 
+#### Movement Track Plot
+
+![Movement Track Plot](movement_track_track0.png)
+
+#### Speed and Acceleration Time-Series
+
+![Speed and Acceleration Plot](track0_speed_acceleration_timeseries.png)
+
+
 ## Contributing
 
 Contributions are welcome! To contribute:
